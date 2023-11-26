@@ -12,7 +12,7 @@ The goal of the project is to create buttons utilizing the HTML5 audio tag that 
 
 ## Features
 
-- 
+- Clickable buttons that play the corresponding sounds.
 
 ## Technologies Used
 
@@ -24,7 +24,7 @@ The goal of the project is to create buttons utilizing the HTML5 audio tag that 
 
 - Start the files from a boiler template.
 - Add the audio tags in the index.html.
-- Add Javascript to target the buttons and play a specific sound for each button when clicked.
+- Add JavaScript to target the buttons and play a specific sound for each button when clicked.
 - Add styles for visual appeal.
 - Update JavaScript to ensure only one sound is heard if multiple buttons are clicked in quick succession.
 
