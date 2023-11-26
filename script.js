@@ -16,7 +16,7 @@ sounds.forEach(sound => {
     appendChild(btn)
 })
 
-// function to stop curent song/sound if another btn is clicked
+// function to stop current song/sound if another btn is clicked
 function stopSongs () {
     sounds.forEach(sound => {
         const song = document.getElementById(sound)
